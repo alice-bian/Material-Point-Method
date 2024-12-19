@@ -13,11 +13,6 @@ Be sure to have Python 3 and Taichi downloaded on your computer. <br />
 4.) Open the attached Houdini file called JelloRender.hipnc. Load the 240 .ply files as a series into the Frame_Sequence node. Set a camera view and render the .ply series, then plug the resulting image sequence into a multimedia player. <br />
  <br />
 
-**Demo:** https://alicesbian.wixsite.com/portfolio/cg-and-animation <br />
-
-
+**Demo:** <br />
 https://github.com/user-attachments/assets/cd445faa-ad37-4ce2-9f1a-1284a91f195a
 
-
-
-Look for cube collision video under Simulations section.
