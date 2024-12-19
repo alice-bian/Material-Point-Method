@@ -14,5 +14,9 @@ Be sure to have Python 3 and Taichi downloaded on your computer. <br />
  <br />
 
 **Demo:** <br />
-https://github.com/user-attachments/assets/cd445faa-ad37-4ce2-9f1a-1284a91f195a
+
+
+https://github.com/user-attachments/assets/5c369661-7353-4f23-a77e-1732d9513eb8
+
+
 
